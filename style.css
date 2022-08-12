@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+if(path.y <0 ){
+  path.y = path.height/2;
+   }
